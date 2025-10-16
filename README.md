@@ -6,7 +6,7 @@
 ---
 
 <div align="center">  
- 🖥️ **Tecnologias que estou aprendendo**  
+ **Tecnologias que estou aprendendo**  
 </div>
 
 <div style="display: inline_block"><br>
