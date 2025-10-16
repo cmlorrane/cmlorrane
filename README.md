@@ -1,7 +1,7 @@
 # 👋 Oi, eu sou a Camilly! 💖
 
 💻 Apaixonada por tecnologia e desenvolvimento web, explorando o mundo do **front-end**.  
-🎨 Transformo ideias em interfaces bonitas, intuitivas e cheias de vida!  
+🎨 Transformando ideias em interfaces bonitas, intuitivas e cheias de vida!  
 
 ---
 
