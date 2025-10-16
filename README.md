@@ -6,7 +6,7 @@
 ---
 
 <div align="center">  
- Tecnologias que estou aprendendo  
+ 🖥️ **Tecnologias que estou aprendendo**  
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
- 💻 O que estou fazendo agora
+ 💻 **O que estou fazendo agora**
 </div>
 
 <details>
@@ -34,7 +34,7 @@
 ---
 
 <div align="center">
-✨ Sobre mim ✨
+✨ **Sobre mim** ✨
 </div>
 
 <details>
@@ -49,7 +49,7 @@
 ---
 
 <div align="center">
-🛠️ Habilidades / Badges  
+🛠️ **Habilidades / Badges**  
 </div>
 
 <p align="center">
