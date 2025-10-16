@@ -1,12 +1,12 @@
 # 👋 Oi, eu sou a Camilly! 💖
 
 👩‍💻 Apaixonada por tecnologia e desenvolvimento web, explorando o mundo do **front-end**.  
-🎨 Transformando ideias em interfaces bonitas, intuitivas e cheias de vida!  
+🎨 Transformo ideias em interfaces bonitas, intuitivas e cheias de vida!  
 
 ---
 
 <div align="center">  
- **Tecnologias que estou aprendendo**  
+💻 **Tecnologias que estou aprendendo**  
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
- 💻 **O que estou fazendo agora**
+🎯 **O que estou fazendo agora**  
 </div>
 
 <details>
@@ -62,12 +62,11 @@
 ---
 
 <div align="center">
-💬 Contato & Redes  
+💬 **Contato & Redes**  
 </div>
 
 <p align="center">
-✉️ cm.lorrane23@gmail.com &nbsp; | &nbsp; 🔗 linkedin.com/in/camilly-lima-0bbaa7262
-  
+✉️ cm.lorrane23@gmail.com &nbsp; | &nbsp; 🔗 linkedin.com/in/camilly-lima-0bbaa7262  
 </p>
 
 ---
