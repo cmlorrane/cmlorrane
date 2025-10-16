@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff80bf,100:9370db&height=180&section=header&text=Camilly%20Lorrane%20🚀&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-
 # 👋 Oi, eu sou a Camilly!
 
 💻 Sou apaixonada por tecnologia e estou trilhando meu caminho no mundo do **desenvolvimento web**, explorando o universo do **front-end**.  
