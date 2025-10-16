@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou a Camilly! 💖
 
-💻 Apaixonada por tecnologia e desenvolvimento web, explorando o mundo do **front-end**.  
+👩‍💻 ApaixonadA por tecnologia e desenvolvimento web, explorando o mundo do **front-end**.  
 🎨 Transformando ideias em interfaces bonitas, intuitivas e cheias de vida!  
 
 ---
@@ -66,7 +66,8 @@
 </div>
 
 <p align="center">
-✉️ camilly@example.com &nbsp; | &nbsp; 🔗 linkedin.com/in/cmlorrane  
+✉️ cm.lorrane23@gmail.com &nbsp; | &nbsp; 🔗 linkedin.com/in/camilly-lima-0bbaa7262
+  
 </p>
 
 ---
