@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
- O que estou fazendo agora
+ 💻 O que estou fazendo agora
 </div>
 
 <details>
@@ -34,7 +34,7 @@
 ---
 
 <div align="center">
-✨ Sobre mim  
+✨ Sobre mim ✨
 </div>
 
 <details>
