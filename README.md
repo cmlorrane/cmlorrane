@@ -1,79 +1,84 @@
-# 👋 Oi, eu sou a Camilly! 💖
+<div align="center">
 
-👩‍💻 Apaixonada por tecnologia e desenvolvimento web, explorando o mundo do **front-end**.  
-🎨 Transformando ideias em interfaces bonitas, intuitivas e cheias de vida!  
+<img height="220" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
----
+# 👋 Oi, eu sou a Camilly!  
 
-<div align="center">  
-💻 **Tecnologias que estou aprendendo**  
+💖 Estudante de Tecnologia apaixonada por desenvolvimento web e interfaces criativas.  
+🚀 Atualmente focada em evoluir minhas habilidades em **front-end**, criando projetos práticos e explorando novas tecnologias.  
+
 </div>
 
-<div align="center">  
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;
-  <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
+<div align="center">
+
+## 💻 Tecnologias & Ferramentas
+
+</div>
+
+<div align="center">
+
+<img align="center" alt="HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+<img align="center" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<img align="center" alt="JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img align="center" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="center" alt="Github" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 </div>
 
 ---
 
 <div align="center">
-🎯 **O que estou fazendo agora**  
+  
+🌱 **Atualmente Aprendendo** 
+  
+<div aling="center">
+  
+ 📌 HTML & CSS avançado
+ 📌 JavaScript
+ 📌 Responsividade
+ 📌 Git & GitHub
+ 📌 Python
+ 📌 Banco de Dados
+
+ 
+<div align="center">
+
+✨ Sobre mim ✨
+
+ 💡 Gosto de unir criatividade e lógica no desenvolvimento  
+ 🎨 Interesse em interfaces modernas e experiência do usuário  
+ 📚 Sempre aprendendo novas tecnologias  
+ 🚀 Construindo projetos para fortalecer meu portfólio  
+
 </div>
-
-<details>
-<summary>📂 Clique para expandir</summary>
-
-- 🎨 Criando projetos para praticar **HTML, CSS e JavaScript**  
-- 📱 Aprendendo **design responsivo**  
-- 🤖 Explorando **Python** e automação  
-
-</details>
-
----
 
 <div align="center">
-✨ **Sobre mim** ✨
-</div>
 
-<details>
-<summary>💡 Clique para saber mais</summary>
+🛠️ **Skills**
 
-- 💻 Amo unir **criatividade e lógica** no código  
-- 📚 Sempre aprendendo algo novo  
-- ⚡ Curiosa por novas tecnologias e boas ideias  
+</div> <p align="center">
 
-</details>
-
----
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 
 <div align="center">
-🛠️ **Habilidades / Badges**  
+
+📫 **Contato**
+
+✉️ cm.lorrane23@gmail.com
+💼 LinkedIn: 
+
 </div>
-
-<p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
 
 <div align="center">
-💬 **Contato & Redes**  
-</div>
 
-<p align="center">
-✉️ cm.lorrane23@gmail.com &nbsp; | &nbsp; 🔗 linkedin.com/in/camilly-lima-0bbaa7262  
-</p>
+✨ Obrigada por visitar meu perfil ✨
 
----
+⭐ Explore meus repositórios e acompanhe minha evolução na tecnologia!
 
-> 💭 “O código é como poesia — quanto mais claro, melhor.”  
-
-<div align="center">
-✨⭐ Explore meus repositórios e acompanhe minha jornada!
-</div>
+</div> ```
