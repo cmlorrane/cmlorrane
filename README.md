@@ -41,11 +41,21 @@
   
  📌 HTML & CSS avançado
  📌 JavaScript
- 📌 Responsividade
  📌 Git & GitHub
  📌 Python
  📌 Banco de Dados
 
+</div>
+ 
+<details> 
+<summary>📂 O que estou fazendo agora </summary>
+  
+ - 🎨 Criando projetos para praticar **HTML, CSS e JavaScript**
+ - 📱 Aprendendo **design responsivo**
+ - 🤖 Explorando **Python** e automação
+ - 💻 Cursando Sistemas de Informação
+
+</details>
  
 <div align="center">
 
