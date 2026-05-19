@@ -8,10 +8,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmlorrane&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmlorrane&layout=compact&theme=radical" />
-</p>
+<div align="center">
+
+![Camilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmlorrane&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmlorrane&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -39,8 +42,6 @@
 
 ---
 
-## 🐍 Contribuições
-
 <p align="center">
   <img src="https://github.com/cmlorrane/cmlorrane/blob/output/github-snake-dark.svg" />
 </p>
@@ -50,7 +51,7 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/camilly23" target="_blank">LinkedIn</a> • 
   <a href="mailto:cm.lorrane23@gmail.com">Email</a> • 
   <a href="https://github.com/cmlorrane">GitHub</a>
 </p>
