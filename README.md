@@ -2,7 +2,7 @@
 
 <img height="220" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-# 👋 Oi, eu sou a Camilly!  
+# 👋 Oii, eu sou a Camilly!  
 
 💖 Estudante de Tecnologia apaixonada por desenvolvimento web e interfaces criativas.  
 🚀 Atualmente focada em evoluir minhas habilidades em **front-end**, criando projetos práticos e explorando novas tecnologias.  
