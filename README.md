@@ -8,6 +8,8 @@
 
 ## 📊 GitHub Stats
 
+<div aling="center">
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cmlorrane&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmlorrane&layout=compact&theme=radical)
