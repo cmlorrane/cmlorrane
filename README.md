@@ -51,6 +51,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> • 
-  <a href="mailto:seuemail@email.com">Email</a> • 
+  <a href="mailto:cm.lorrane23@gmail.com">Email</a> • 
   <a href="https://github.com/cmlorrane">GitHub</a>
 </p>
