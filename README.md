@@ -8,13 +8,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Camilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmlorrane&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmlorrane&layout=compact&theme=tokyonight)
-
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cmlorrane&theme=tokyonight)
 
 ---
 
