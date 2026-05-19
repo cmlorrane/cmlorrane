@@ -1,94 +1,56 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Camilly</h1>
 
-<img height="220" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-# 👋 Oii, eu sou a Camilly!  
-
-💖 Estudante de Tecnologia apaixonada por desenvolvimento web e interfaces criativas.  
-🚀 Atualmente focada em evoluir minhas habilidades em **front-end**, criando projetos práticos e explorando novas tecnologias.  
-
-</div>
-
-<div align="center">
-
-## 💻 Tecnologias & Ferramentas
-
-</div>
-
-<div align="center">
-
-<img align="center" alt="HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-<img align="center" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-<img align="center" alt="JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<img align="center" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-<img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="center" alt="Github" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-</div>
+<p align="center">
+  🎓 Análise e Desenvolvimento de Sistemas • 💻 Front-end Developer • 🚀 Em busca de estágio
+</p>
 
 ---
 
-<div align="center">
-  
-🌱 **Atualmente Aprendendo** 
-  
-<div aling="center">
-  
- 📌 HTML & CSS avançado
- 📌 JavaScript
- 📌 Git & GitHub
- 📌 Python
- 📌 Banco de Dados
+## 📊 GitHub Stats
 
-</div>
- 
-<details> 
-<summary>📂 O que estou fazendo agora </summary>
-  
- - 🎨 Criando projetos para praticar **HTML, CSS e JavaScript**
- - 📱 Aprendendo **design responsivo**
- - 🤖 Explorando **Python** e automação
- - 💻 Cursando Sistemas de Informação
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cmlorrane&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmlorrane&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</details>
- 
-<div align="center">
+---
 
-✨ Sobre mim ✨
+## ⚙️ Tech Stack
 
- 💡 Gosto de unir criatividade e lógica no desenvolvimento  
- 🎨 Interesse em interfaces modernas e experiência do usuário  
- 📚 Sempre aprendendo novas tecnologias  
- 🚀 Construindo projetos para fortalecer meu portfólio  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,vscode" />
+</p>
 
-</div>
+---
 
-<div align="center">
+## 🚀 Projetos em destaque
 
-🛠️ **Skills**
+- 💼 Portfólio pessoal (em desenvolvimento)
+- 📌 Projetos práticos para estudo (em breve mais atualizações)
+- 🧠 Projetos focados em problemas do dia a dia
 
-</div> <p align="center">
+---
 
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
+## 📈 Atividade
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmlorrane&theme=tokyonight&hide_border=true"/>
+</p>
 
-📫 **Contato**
+---
 
-✉️ cm.lorrane23@gmail.com
-💼 LinkedIn: 
+## 🐍 Contribuições
 
-</div>
+<p align="center">
+  <img src="https://github.com/cmlorrane/cmlorrane/blob/output/github-snake-dark.svg" />
+</p>
 
-<div align="center">
+---
 
-✨ Obrigada por visitar meu perfil ✨
+## 📫 Contato
 
-⭐ Explore meus repositórios e acompanhe minha evolução na tecnologia!
-
-</div> ```
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> • 
+  <a href="mailto:seuemail@email.com">Email</a> • 
+  <a href="https://github.com/cmlorrane">GitHub</a>
+</p>
