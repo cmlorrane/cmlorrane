@@ -49,7 +49,7 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="[www.linkedin.com/in/camilly23](https://www.linkedin.com/in/camilly23/)" target="_blank">LinkedIn</a> • 
+  <a href="[www.linkedin.com/in/camilly23]" target="_blank">LinkedIn</a> • 
   <a href="mailto:cm.lorrane23@gmail.com">Email</a> • 
   <a href="https://github.com/cmlorrane">GitHub</a>
 </p>
